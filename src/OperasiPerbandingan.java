@@ -11,6 +11,5 @@ public class OperasiPerbandingan {
         System.out.println(a == b);
         System.out.println(a != b);
 
-
     }
 }
